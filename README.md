@@ -19,7 +19,7 @@ Son expertise organisationnelle et son regard analytique garantissent la qualit�
 
 Herolde est un entrepreneur au parcours atypique : d’une **licence en électromécanique**, il s’est reconverti en programmeur **autodidacte**, passionné par la création d’outils numériques.
 Il porte la vision stratégique de GeenkoDev et la direction produit.
-Il est également le créateur de **Facturel Soft**, la première solution phare de l’entreprise.
+Il est également le développeur en chef de **Facturel Soft**, la première solution phare de l’entreprise.
 
 ---
 
